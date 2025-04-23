@@ -35,7 +35,7 @@ Set up a virtual environment (optional but recommended):
   
     source venv/bin/activate  
   
-  # On Windows: venv\Scripts\activate
+    # On Windows: venv\Scripts\activate
 
 Install required dependencies:
 
