@@ -23,37 +23,37 @@ To run the projects locally, follow these steps:
 
 Clone the repository:
 
-  git clone https://github.com/sean-cooper333/Python-Practice.git
+    git clone https://github.com/sean-cooper333/Python-Practice.git
 
 Navigate to the project directory:
 
-  cd Python-Practice
+    cd Python-Practice
 
 Set up a virtual environment (optional but recommended):
 
-  python -m venv venv
+    python -m venv venv
   
-  source venv/bin/activate  
+    source venv/bin/activate  
   
   # On Windows: venv\Scripts\activate
 
 Install required dependencies:
 
-  pip install pygame
+    pip install pygame
 
 Features:
 
   Beginner Exercises:  
   
-    Strengthen understanding of Python basics through practical exercises.
+  Strengthen understanding of Python basics through practical exercises.
 
   Game Development: 
   
-    Learn game mechanics, graphics, and user interaction using Pygame.
+  Learn game mechanics, graphics, and user interaction using Pygame.
 
   Cybersecurity Tools: 
   
-    Explore fundamental concepts in ethical hacking and network security with Python scripts.
+  Explore fundamental concepts in ethical hacking and network security with Python scripts.
 Future Enhancements:
 
   Add detailed documentation and comments to each script for better understanding.
