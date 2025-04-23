@@ -1,6 +1,6 @@
-Python Practice
+# Python Practice
 
-  Welcome to my Python Practice repository! 
+  ## Welcome to my Python Practice repository! 
   
   This collection encompasses a variety of Python projects and exercises aimed at honing my programming skills. 
   
@@ -18,7 +18,7 @@ PythonForHackers:
 
   Scripts and tools inspired by cybersecurity practices, including network scanning, data encryption, and ethical hacking techniques.
 
-Getting Started
+## Getting Started
 To run the projects locally, follow these steps:
 
 Clone the repository:
@@ -41,7 +41,7 @@ Install required dependencies:
 
     pip install pygame
 
-Features:
+## Features:
 
   Beginner Exercises:  
   
@@ -54,7 +54,8 @@ Features:
   Cybersecurity Tools: 
   
   Explore fundamental concepts in ethical hacking and network security with Python scripts.
-Future Enhancements:
+
+## Future Enhancements:
 
   Add detailed documentation and comments to each script for better understanding.
 
